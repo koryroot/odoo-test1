@@ -1,2 +1,5 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
 access_wendry_module_wendry_module,wendry_module.wendry_module,model_wendry_module_wendry_module,base.group_user,1,1,1,1
+
+id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
+access_test_model,access_test_model,model_test_model,base.group_user,1,0,0,0
